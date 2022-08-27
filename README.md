@@ -10,7 +10,7 @@ This repository contains my notes and solutions to labs and projects of this cou
 
 ### Week 1
 
-- [What I learned](https://github.com/erinchocolate/swen502/blob/master/Week%201/Week%201.md)
+- [What I learned](https://github.com/erinchocolate/swen502/blob/master/Week%201/Study%20Note.md)
 - Lab: [Bug World](https://github.com/erinchocolate/swen502/tree/master/Week%201/Bug%20World)
 
 Week2
