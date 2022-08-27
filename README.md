@@ -8,12 +8,9 @@ The course addresses a range of software development skills and builds an unders
 
 This repository contains my notes and solutions to labs and projects of this course.
 
-### Week 1
+### Lab
 
-- [What I learned](https://github.com/erinchocolate/swen502/blob/master/Week%201/Study%20Note.md)
-- Lab: [Bug World](https://github.com/erinchocolate/swen502/tree/master/Week%201/Bug%20World)
+- [Bug World](https://github.com/erinchocolate/swen502/tree/master/Week%201/Bug%20World)
 
-Week2
+### Project
 
-- Study note
-- 
