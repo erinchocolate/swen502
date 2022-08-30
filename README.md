@@ -10,7 +10,8 @@ This repository contains my notes and solutions to labs and projects of this cou
 
 ### Lab
 
-- [Bug World](https://github.com/erinchocolate/swen502/tree/master/Week%201/Bug%20World)
+- [Bug World](https://github.com/erinchocolate/swen502/tree/master/Bug%20World)
+- [Fun With Words](https://github.com/erinchocolate/swen502/tree/master/Fun%20With%20Words)
 
 ### Project
 
