@@ -6,12 +6,15 @@ The course addresses a range of software development skills and builds an unders
 
 ## About this repo
 
-This repository contains my notes and solutions to labs and projects of this course.
+This repository contains my solutions to labs and projects of this course.
 
-### Lab
+### Week  1: Code Repositories, Inheritance and Generics
 
 - [Bug World](https://github.com/erinchocolate/swen502/tree/master/Bug%20World)
-- [Fun With Words](https://github.com/erinchocolate/swen502/tree/master/Fun%20With%20Words)
 
-### Project
+### Week 2: Comparator, Comparable, Recursion and Collections
+
+- [Fun With Words](https://github.com/erinchocolate/swen502/tree/master/Fun%20With%20Words)
+- [Student System](https://github.com/erinchocolate/swen502/tree/master/Student%20System)
+- [Train and Wagons]
 
