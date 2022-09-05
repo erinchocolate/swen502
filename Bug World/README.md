@@ -1,4 +1,5 @@
 # Bug World
+![BugWorld](https://github.com/erinchocolate/swen502/blob/master/Bug%20World/bugWorld.PNG)
 
 The program emulates a world with bugs, plants and obstacles.
 
