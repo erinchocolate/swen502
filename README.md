@@ -14,7 +14,7 @@ This repository contains my solutions to labs of this course.
 
 - [Student System](https://github.com/erinchocolate/swen502/tree/master/Student%20System)
 
-- Island
+- [Island](https://github.com/erinchocolate/swen502/tree/master/Island)
 
   
 
