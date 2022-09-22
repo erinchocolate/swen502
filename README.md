@@ -16,5 +16,9 @@ This repository contains my solutions to labs of this course.
 
 - [Island](https://github.com/erinchocolate/swen502/tree/master/Island)
 
+- [Animation](https://github.com/erinchocolate/swen502/tree/master/Animation)
+
+- [Number Guessing](https://github.com/erinchocolate/swen502/tree/master/Number%20Guessing)
+
   
 
