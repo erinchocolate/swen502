@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="scenePane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.StartSceneController">
+   <children>
+      <Button fx:id="startButton" layoutX="100.0" layoutY="360.0" mnemonicParsing="false" onAction="#startGame" text="Yes, Let's Do It!" />
+      <Button fx:id="quitButton" layoutX="332.0" layoutY="360.0" mnemonicParsing="false" onAction="#quitGame" text="Nah, I have better things to do" />
+      <ImageView fx:id="imageView" fitHeight="225.0" fitWidth="304.0" layoutX="180.0" layoutY="128.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/home.gif" />
+         </image>
+      </ImageView>
+      <Label alignment="CENTER" layoutY="14.0" prefHeight="53.0" prefWidth="600.0" text="Are You Ready">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutY="68.0" prefHeight="53.0" prefWidth="600.0" text="To Guess Some Numbers">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
