@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.web.WebView?>
+
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.HTMLController">
+   <left>
+      <AnchorPane prefHeight="600.0" prefWidth="379.0" BorderPane.alignment="CENTER">
+         <children>
+            <TextArea fx:id="textArea" layoutY="-1.0" prefHeight="600.0" prefWidth="381.0" />
+         </children>
+      </AnchorPane>
+   </left>
+   <right>
+      <WebView fx:id="webView" prefWidth="421.0" BorderPane.alignment="CENTER" />
+   </right>
+</BorderPane>
