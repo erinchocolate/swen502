@@ -1,6 +1,5 @@
 # Web Browser
-
-This browser program is made by JavaFX.
+![Browser](https://github.com/erinchocolate/swen502/blob/master/Browser/Demo.gif)
 
 ## Features:
 
