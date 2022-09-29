@@ -20,5 +20,7 @@ This repository contains my solutions to labs of this course.
 
 - [Number Guessing](https://github.com/erinchocolate/swen502/tree/master/Number%20Guessing)
 
+- [Browser](https://github.com/erinchocolate/swen502/tree/master/Browser)
+
   
 
