@@ -1,5 +1,5 @@
 # Animation
-
+![Animation](https://github.com/erinchocolate/swen502/blob/master/Animation/animationDemo.gif)
 ## Features:
 
 - Aliens
