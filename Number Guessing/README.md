@@ -1,5 +1,5 @@
 # Number Guessing
-
+![NumberGuessing](https://github.com/erinchocolate/swen502/blob/master/Number%20Guessing/numberGuessDemo.gif)
 Features:
 
 - Users can make guesses
