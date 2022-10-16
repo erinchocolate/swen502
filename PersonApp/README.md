@@ -1,5 +1,5 @@
 # PersonBST
-![Browser](https://github.com/erinchocolate/swen502/blob/master/Browser/Demo.gif)
+![PersonBST](https://github.com/erinchocolate/swen502/blob/master/PersonApp/Demo.gif)
 
 This project is mainly to learn tree structure especially binary search tree.
 
