@@ -22,5 +22,7 @@ This repository contains my solutions to labs of this course.
 
 - [Browser](https://github.com/erinchocolate/swen502/tree/master/Browser)
 
+- [PersonBST](https://github.com/erinchocolate/swen502/tree/master/PersonApp)
+
   
 
