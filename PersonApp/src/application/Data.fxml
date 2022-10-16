@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.DataController">
+   <children>
+      <TableView fx:id="tableView" layoutX="25.0" layoutY="30.0" onMouseClicked="#personSelected" prefHeight="229.0" prefWidth="551.0">
+        <columns>
+          <TableColumn fx:id="idColumn" prefWidth="99.99999618530273" text="ID" />
+          <TableColumn fx:id="firstNameColumn" prefWidth="193.71429443359375" text="First Name" />
+            <TableColumn fx:id="lastNameColumn" prefWidth="154.85711669921875" text="Last Name" />
+            <TableColumn fx:id="ageColumn" prefWidth="95.42861938476562" text="Age" />
+        </columns>
+      </TableView>
+      <Button layoutX="28.0" layoutY="298.0" mnemonicParsing="false" onAction="#display" text="Refresh" />
+      <Button layoutX="98.0" layoutY="298.0" mnemonicParsing="false" onAction="#sortByAge" text="Sort By Age" />
+      <Button layoutX="188.0" layoutY="298.0" mnemonicParsing="false" onAction="#sortByFirstName" text="Sort By Fname" />
+      <Button layoutX="289.0" layoutY="298.0" mnemonicParsing="false" onAction="#sortByLastName" text="Sort By Lname" />
+      <Button layoutX="455.0" layoutY="334.0" mnemonicParsing="false" onAction="#searchButtonPushed" text="Search" />
+      <Button fx:id="editButton" layoutX="399.0" layoutY="298.0" mnemonicParsing="false" onAction="#editButtonPushed" text="Edit" />
+      <TextField fx:id="searchBar" layoutX="254.0" layoutY="334.0" prefHeight="25.0" prefWidth="118.0" promptText="Enter name or age" />
+      <TextField fx:id="nameLengthSearchBar" layoutX="254.0" layoutY="368.0" prefHeight="25.0" prefWidth="182.0" promptText="Enter name length" />
+      <Button layoutX="455.0" layoutY="368.0" mnemonicParsing="false" onAction="#searchButtonForNamePushed" text="Search" />
+      <Label fx:id="warningLabel" alignment="CENTER" layoutX="28.0" layoutY="280.0" prefHeight="17.0" prefWidth="543.0" text="Label" />
+      <Label layoutX="28.0" layoutY="338.0" prefHeight="17.0" prefWidth="176.0" text="Find Person by name or age" />
+      <Label layoutX="28.0" layoutY="372.0" prefHeight="17.0" prefWidth="218.0" text="Find Person whose first name's length is" />
+      <Button layoutX="455.0" layoutY="298.0" mnemonicParsing="false" onAction="#checkButtonPushed" text="Check Balance" />
+      <Label fx:id="balancedLabel" alignment="CENTER" layoutX="24.0" layoutY="259.0" prefHeight="17.0" prefWidth="551.0" />
+   </children>
+</AnchorPane>
