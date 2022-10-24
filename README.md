@@ -24,5 +24,7 @@ This repository contains my solutions to labs of this course.
 
 - [PersonBST](https://github.com/erinchocolate/swen502/tree/master/PersonApp)
 
+- Manage Finance
+
   
 
