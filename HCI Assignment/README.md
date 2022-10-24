@@ -1,5 +1,5 @@
 # Manage Finance
-![PersonBST](https://github.com/erinchocolate/swen502/blob/master/PersonApp/Demo.gif)
+![Demo](https://github.com/erinchocolate/swen502/blob/master/HCI%20Assignment/Demo.gif)
 
 This project is mainly to learn User Experience design.
 
