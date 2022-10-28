@@ -6,7 +6,7 @@ The course addresses a range of software development skills and builds an unders
 
 ## About this repo
 
-This repository contains my solutions to labs of this course.
+This repository contains my solutions to projects of this course.
 
 - [Bug World](https://github.com/erinchocolate/swen502/tree/master/Bug%20World)
 
