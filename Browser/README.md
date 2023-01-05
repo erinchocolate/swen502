@@ -1,6 +1,4 @@
 # Web Browser
-![Browser](https://github.com/erinchocolate/swen502/blob/master/Browser/Demo.gif)
-
 ## Features:
 
 - Bookmark
@@ -11,5 +9,7 @@
 - Simple JavaScript code runner 
 - Search engine choice
 
+## Demo
 
+![Browser](https://github.com/erinchocolate/swen502/blob/master/Browser/Demo.gif)
 

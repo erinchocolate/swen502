@@ -1,7 +1,5 @@
 # Student System
 
-![StudentSystem](https://github.com/erinchocolate/swen502/blob/master/Student%20System/StudentSystem.gif)
-
 This program is an administration system for a university. It needs to track which students are in which courses, and what their grades were for courses they have completed. The user needs to be able to look up:
 
 - Students by name
@@ -26,3 +24,7 @@ They should also be able to:
 - Enroll a student into a course
 - Assign a grade to a student in a course
 - Unenroll a student from a course
+
+## Demo
+
+![StudentSystem](https://github.com/erinchocolate/swen502/blob/master/Student%20System/StudentSystem.gif)
