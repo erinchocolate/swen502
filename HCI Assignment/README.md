@@ -1,7 +1,7 @@
 # Manage Finance
 ![Demo](https://github.com/erinchocolate/swen502/blob/master/HCI%20Assignment/Demo.gif)
 
-This project is mainly to learn User Experience design.
+This project is mainly for studying User Experience design.
 
 We created user personas, information architecture, use cases, wireframes and prototype of a personal finance management app.
 
