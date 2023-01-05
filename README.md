@@ -8,21 +8,14 @@ The course addresses a range of software development skills and builds an unders
 
 This repository contains my solutions to projects of this course.
 
-- [Bug World](https://github.com/erinchocolate/swen502/tree/master/Bug%20World)
-
-- [Fun With Words](https://github.com/erinchocolate/swen502/tree/master/Fun%20With%20Words)
-
 - [Student System](https://github.com/erinchocolate/swen502/tree/master/Student%20System)
 
 - [Island](https://github.com/erinchocolate/swen502/tree/master/Island)
-
-- [Animation](https://github.com/erinchocolate/swen502/tree/master/Animation)
 
 - [Number Guessing](https://github.com/erinchocolate/swen502/tree/master/Number%20Guessing)
 
 - [Browser](https://github.com/erinchocolate/swen502/tree/master/Browser)
 
-- [PersonBST](https://github.com/erinchocolate/swen502/tree/master/PersonApp)
 
   
 
