@@ -24,7 +24,5 @@ This repository contains my solutions to projects of this course.
 
 - [PersonBST](https://github.com/erinchocolate/swen502/tree/master/PersonApp)
 
-- [Manage Finance](https://github.com/erinchocolate/swen502/tree/master/HCI%20Assignment)
-
   
 
